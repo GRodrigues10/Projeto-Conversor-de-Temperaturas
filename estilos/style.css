@@ -17,6 +17,7 @@
     background-position: center center;
     font-family: fonte;
     overflow-y: hidden;
+    overflow-x: hidden;
     display: flex; /* Isso faz com que o body se comporte como um flex container */
     justify-content: center; /* Isso centraliza horizontalmente */
     align-items: center; /* Isso centraliza verticalmente */
