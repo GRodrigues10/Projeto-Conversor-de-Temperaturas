@@ -17,8 +17,13 @@
 
     button{
         width: 120px;
+        position: relative;
+        top: 10px;
     }
-
+    #res{
+        position: relative;
+        top: 30px;
+    }
     
 
 }
@@ -43,6 +48,12 @@
 
     button{
         width: 120px;
+        position: relative;
+        top: 10px;
+    }
+    #res{
+        position: relative;
+        top: 30px;
     }
 
     
