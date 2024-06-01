@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de Temperatura</title>
+    <link rel="stylesheet" href="estilos/style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+    <section>
+        <h1>Conversor de Temperaturas</h1>
+        <label for="caixa" id="caixal"></label>
+        <input type="number" name="caixa" id="caixa" placeholder="Digite a Temperatura"><br>
+
+
+       
+        <input type="radio" name="temperatura" id="grauC">
+        <label for="grauC" id="lblTxt">Fahrenheit ➡ Celsius</label><br><br>
+
+        <input type="radio" name="temperatura" id="grauF">
+        <label for="grauF" id="lblTxt2">Celsius ➡ Fahrenheit</label><br>
+
+        <button onclick="calcular()">Calcular</button>
+
+        <p id="res">Preencha os Dados!</p>
+    </section>
+
+
+    <footer>
+        &copy; Site Criado por <a href="https://github.com/GabrielCostaRodriguess" target="_blank">Gabriel Rodrigues</a>
+    </footer>
+
+
+
+
+
+
+
+    <script src="index.js"></script>
+</body>
+</html>
