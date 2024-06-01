@@ -32,6 +32,8 @@ section {
     border-radius: 10px;
     text-shadow: 1px 1px 1px black;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
+    position: relative;
+    bottom: 20px;
 }
 
 h1 {
