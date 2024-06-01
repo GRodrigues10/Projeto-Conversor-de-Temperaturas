@@ -10,3 +10,7 @@ O Conversor de Temperaturas é uma ferramenta prática e eficiente para qualquer
 HTML5<br>
 CSS3<br>
 JavaScript<br>
+
+<h2>Imagem do Projeto</h2>
+
+![conversor](https://github.com/GRodrigues10/Projeto-Conversor-de-Temperaturas/assets/167185964/11e96092-4fed-4ec5-9e44-e09358dbdf62)
