@@ -10,6 +10,7 @@ function calcular(){
     else if(cel.checked){
        let cels = (caixaNum - 32) * (5/9);
        res.innerHTML = `Fahrenheit ➡ Celsius: ${cels.toFixed(1)}ºC `
+       
     }
 
     else if(fah.checked){
