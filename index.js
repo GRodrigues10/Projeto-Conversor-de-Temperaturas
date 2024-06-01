@@ -1,6 +1,3 @@
-
-
-
 function calcular(){
     const caixa = document.getElementById("caixa");
     const cel = document.getElementById("grauC");
